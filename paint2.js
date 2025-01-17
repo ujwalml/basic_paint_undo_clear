@@ -1,4 +1,4 @@
-alert("please like, share and follow me!");
+alert("BASIC PAINT UNDO CLEAR!");
 window.onload = () => {
     init();
 }
